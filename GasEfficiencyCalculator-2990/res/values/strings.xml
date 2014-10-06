@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Gas Efficiency Calculator-2990</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="GasEfficiencyTextViewDistance">Enter Distance Traveled:</string>
+    <string name="KmOrMiles">km or miles</string>
+    <string name="Distance_Unit_Chooser">Distance Unit Chooser</string>
+    <string-array name = "DistanceType"> 
+        <item>km</item>
+        <item>miles</item>
+        </string-array>
+    
+    <string name="Gas_Unit_Chooser">Gas Unit Chooser</string>
+    <string-array name = "GasType">
+        <item >Gallons</item>
+        <item >Liters</item>
+    </string-array>
+    
+    <string name="GasTextView">Enter Gas Used:</string>
+    
+    <string name ="Total">TOTAL</string>
+    
+    <string name="Kilometer">km</string>
+    <string name="Miles">miles</string>
+    <string name="Total_Distance">Total Distance:</string>
+    
+    <string name="Gallon">Gallons</string>
+    <string name="Liters">Liters</string>
+    <string name="Total_Gas">Total Gas:</string>
+    
+    <string name="mpg">Miles per Gallon:</string>
+	<string name="kmpl">Km per Liter:</string>
+	
+</resources>
